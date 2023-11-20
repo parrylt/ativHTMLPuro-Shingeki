@@ -1,6 +1,6 @@
 # ativHTMLPuro-Shingeki
-atividade de HTML no começo do curso. o tema escolhido foi shingeki no kyoujin. esse é HTML puro e era bem no começo, não tínhamos muito conhecimento de Web.<br>
-<br>
+atividade de HTML no começo do curso. o tema escolhido foi shingeki no kyoujin. esse é HTML puro e era bem no começo, não tínhamos muito conhecimento de Web.
+<br><br>
 <div align="center">
   <h3>Começo da aprendizagem de HTML</h3>
   <img src="ImagensTarefa/1.png">
